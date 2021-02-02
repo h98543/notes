@@ -15,6 +15,11 @@
 
 this is [链接](https:// "Title") inline link
 
+```php
+$num = '123';
+echo $num;
+```
+
 **加粗**
 ~~删除线~~
 *斜体*
