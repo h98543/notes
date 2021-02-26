@@ -34,8 +34,9 @@ echo $num;
 | | 78| 88|
 
 # 支持的代码块语言
-| AppleScript | applescript | shBrushAppleScript.js | -
+| 名称 | 关键字 | 调用的js | 说明
 | ---- | ---- | ---- |  ----
+| AppleScript | applescript | shBrushAppleScript.js | -
 | ActionScript 3.0 | actionscript3 , as3 | shBrushAS3.js | -
 | Shell | bash , shell | shBrushBash.js | -
 | ColdFusion | coldfusion , cf | shBrushColdFusion.js | -
